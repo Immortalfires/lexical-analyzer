@@ -1,0 +1,72 @@
+保留字/关键字	1
+操作符/运算符	2
+分界符		3
+标识符		4
+常数		5
+未识别		6
+------Java保留字-----
+abstract
+boolean
+break
+byte		
+case
+catch
+char
+const
+class
+continue
+default
+do
+double
+else
+extends
+final
+finally
+float
+for
+if
+implements
+import
+instanceof
+int
+interface
+long
+new
+package
+private
+protected
+public
+return
+short
+static
+super
+switch
+this
+throw
+throws
+transient
+try
+void
+while
+synchronized
+-----标识符-----
+-----操作符-----
++
+++
+-
+--
+*
+/
+=
+!=
+-----分界符-----
+(
+)
+[
+]
+{
+}
+;
+-----常数------
+-----未识别-----
+
